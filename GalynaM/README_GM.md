@@ -6,3 +6,6 @@ Logic to get medals by country, not by each athlete was added, by reducing numbe
 
 Number of Brazil total Medals and Gold Medals were obtained and plotted to compare number of medals 
 Brazil won in the hosting year to the previous years
+
+Total trade values for import and export for Brazil for several years around the 2016 obtained
+wits package - an implementation of the World Integrated Trade Solution API - was used
