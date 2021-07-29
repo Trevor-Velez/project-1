@@ -11,3 +11,5 @@ Total trade values for import and export for Brazil for several years around the
 wits package - an implementation of the World Integrated Trade Solution API - was used
 
 Plots generated to analyze Olympics effect on trade boosting
+
+Edited to remove excessive Plots
