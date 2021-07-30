@@ -127,3 +127,12 @@ def read_Crime_Index(files):
     crime_index_df = crime_index_df[["Country","Crime Index"]]
     
     return crime_index_df
+
+def calc_percent_change(year, dataframe, column):
+    if year == "2015":
+        change = ((dataframe.iloc[3][column] - dataframe.iloc[2][column]) 
+                               / dataframe.iloc[2][column]) * 100
+    else:
+        change = ((dataframe.iloc[4][column] - dataframe.iloc[3][column]) 
+                               / dataframe.iloc[3][column]) * 100
+    return round(change,2)
