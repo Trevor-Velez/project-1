@@ -1,4 +1,4 @@
-Year,Country,Region,Happiness Rank,Happiness Score,Economy (GDP per Capita),Social support,Health (Life Expectancy),Freedom,Trust (Government Corruption),Generosity
+Year,Country,Region,Happiness Rank,Happiness Score,Economy,Social support,Health (Life Expectancy),Freedom,Trust (Government Corruption),Generosity
 2015,Brazil,Latin America and Caribbean,16,6.983,0.98124,1.23287,0.69702,0.49049,0.17521,0.14574
 2016,Brazil,Latin America and Caribbean,17,6.952,7.029,1.08754,1.03938,0.61415,0.40425,0.15776
 2017,Brazil,Latin America and Caribbean,22,6.635000229,1.10735321,1.431306005,0.616552353,0.437453747,0.111092761,0.162349895
