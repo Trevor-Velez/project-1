@@ -8,7 +8,7 @@ Main Topic: How Brazil was affected by hosting the 2016 Summer Olympics
 
 1) Crime rate prior, during, and after the 2016 Rio Olympics
 
-2) How the 2016 Rio Olympics affected the people of Brazil in terms of their overall happiness score/rank prior, during, and after the Olympics
+2) How the 2016 Rio Olympics affected the people of Brazil in terms of their overall happiness score prior, during, and after the Olympics
 
 3) How as overall GDP (prior, during, and after the Olympics) and local economies affected by the 2016 Rio Olympics
 
