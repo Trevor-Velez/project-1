@@ -13,3 +13,5 @@ wits package - an implementation of the World Integrated Trade Solution API - wa
 Plots generated to analyze Olympics effect on trade boosting
 
 Edited to remove excessive Plots
+
+Final editing and Analysis had been added to both modules - BRA_trade and BRA_medals
