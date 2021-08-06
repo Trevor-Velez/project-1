@@ -1,30 +1,3 @@
-ProductCode,Indicator,Year,Value,DataSource
-Animal,Import Trade Value (US$ Thousand),2016,2227368.687,WITS - UNSD Comtrade
-Vegetable,Import Trade Value (US$ Thousand),2016,6065286.797,WITS - UNSD Comtrade
-Food Products,Import Trade Value (US$ Thousand),2016,2789565.561,WITS - UNSD Comtrade
-Minerals,Import Trade Value (US$ Thousand),2016,1495351.26,WITS - UNSD Comtrade
-Fuels,Import Trade Value (US$ Thousand),2016,15142175.558,WITS - UNSD Comtrade
-Chemicals,Import Trade Value (US$ Thousand),2016,28822513.409,WITS - UNSD Comtrade
-Plastic or Rubber,Import Trade Value (US$ Thousand),2016,8417291.616,WITS - UNSD Comtrade
-Hides and Skins,Import Trade Value (US$ Thousand),2016,363000.066,WITS - UNSD Comtrade
-Wood,Import Trade Value (US$ Thousand),2016,1305105.804,WITS - UNSD Comtrade
-Textiles and Clothing,Import Trade Value (US$ Thousand),2016,4216076.908,WITS - UNSD Comtrade
-Footwear,Import Trade Value (US$ Thousand),2016,491801.086,WITS - UNSD Comtrade
-Stone and Glass,Import Trade Value (US$ Thousand),2016,1343100.804,WITS - UNSD Comtrade
-Metals,Import Trade Value (US$ Thousand),2016,7340275.836,WITS - UNSD Comtrade
-Mach and Elec,Import Trade Value (US$ Thousand),2016,38027942.727,WITS - UNSD Comtrade
-Transportation,Import Trade Value (US$ Thousand),2016,12979168.993,WITS - UNSD Comtrade
-Miscellaneous,Import Trade Value (US$ Thousand),2016,6525977.354,WITS - UNSD Comtrade
-Agricultural Raw Materials,Import Trade Value (US$ Thousand),2016,1709621.929,WITS - UNSD Comtrade
-Chemical,Import Trade Value (US$ Thousand),2016,33658816.625,WITS - UNSD Comtrade
-Food,Import Trade Value (US$ Thousand),2016,10179798.81,WITS - UNSD Comtrade
-Fuel,Import Trade Value (US$ Thousand),2016,15239757.59,WITS - UNSD Comtrade
-Manufactures,Import Trade Value (US$ Thousand),2016,106019656.832,WITS - UNSD Comtrade
-Ores and Metals,Import Trade Value (US$ Thousand),2016,4313803.355,WITS - UNSD Comtrade
-Textiles,Import Trade Value (US$ Thousand),2016,4538868.769,WITS - UNSD Comtrade
-All Products,Import Trade Value (US$ Thousand),2016,137552002.466,WITS - UNSD Comtrade
-Machinery and Transport Equipment,Import Trade Value (US$ Thousand),2016,51301852.914,WITS - UNSD Comtrade
-Raw materials,Import Trade Value (US$ Thousand),2016,12041519.002,WITS - UNSD Comtrade
-Intermediate goods,Import Trade Value (US$ Thousand),2016,42865728.89,WITS - UNSD Comtrade
-Consumer goods,Import Trade Value (US$ Thousand),2016,34083891.047,WITS - UNSD Comtrade
-Capital goods,Import Trade Value (US$ Thousand),2016,48559846.3330001,WITS - UNSD Comtrade
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e7b401986b18e2a501227c73445873aed2fc73277366c655c0984e970c573b0
+size 2531
